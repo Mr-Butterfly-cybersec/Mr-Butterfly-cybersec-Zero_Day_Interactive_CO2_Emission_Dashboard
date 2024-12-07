@@ -25,7 +25,7 @@ Here’s what our project aims to achieve
 
 4)Encouraging Exploration: The interactive aspect invites users to engage with the data, making it a hands-on way to learn about CO₂ emissions and their global impact.
 
-#TOOLS AND LIBRARIES USED
+# TOOLS AND LIBRARIES USED
 
 Python: For building the dashboard and data processing.
 Matplotlib: For visualizing the CO₂ emissions through graphs and charts.
@@ -68,14 +68,14 @@ Users could make meaningful comparisons between countries, fostering a better un
 # CHALLENGES FACED
 
 1) Data Cleaning:
- datasets contained missing or inconsistent values, requiring preprocessing to make the data usable.
+   datasets contained missing or inconsistent values, requiring preprocessing to make the data usable.
 
-Visualization Complexity:
-Balancing simplicity and readability in graphs was a challenge, especially when comparing multiple countries.
+2) Visualization Complexity:
+   Balancing simplicity and readability in graphs was a challenge, especially when comparing multiple countries.
 
-Interactivity:
-Adding interactive elements, such as country selection or time-range filters, required additional logic and testing.
+3) Interactivity:
+   Adding interactive elements, such as country selection or time-range filters, required additional logic and testing.
 
-Technical Limitations:
-As a student project, the dashboard is limited in functionality compared to professional-grade tools, but it serves its purpose as a learning exercise.
+4) Technical Limitations:
+   As a student project, the dashboard is limited in functionality compared to professional-grade tools, but it serves its purpose as a learning exercise.
     

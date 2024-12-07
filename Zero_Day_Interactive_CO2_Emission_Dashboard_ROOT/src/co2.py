@@ -15,9 +15,9 @@ x1 = df_country1.get('Year').tolist()
 y1 = df_country1.get('CO2_emission').tolist()
 plt.plot(x1, y1, label=country1)
 
-x1 = df_country2.get('Year').tolist()
-y1 = df_country2.get('CO2_emission').tolist()
-plt.plot(x1, y1, label=country2)
+x2 = df_country2.get('Year').tolist()
+y2 = df_country2.get('CO2_emission').tolist()
+plt.plot(x2, y2, label=country2)
 
 plt.xlabel('Years')
 plt.ylabel('CO2 emission')

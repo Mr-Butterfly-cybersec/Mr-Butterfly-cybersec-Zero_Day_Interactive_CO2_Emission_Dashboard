@@ -1,4 +1,4 @@
-#INTERACTIVE CO2 DASHBOARD
+# INTERACTIVE CO2 DASHBOARD
   
   Project done by-
   
@@ -11,7 +11,7 @@
   4)Rahul Banyala  [ku2407u434]
 
 
-#OBEJECTIVE OF PROJECT
+# OBEJECTIVE OF PROJECT
 
 The objective of your interactive CO₂ emission dashboard is to provide a simple, beginner-friendly tool for comparing carbon dioxide emissions between different countries. As a student project, its primary goal is to demonstrate how data visualization and interactivity can make environmental data easier to understand and analyze.
 
@@ -33,7 +33,7 @@ Pandas: For handling and analyzing the dataset.
 VS code Notebook: For development and testing purposes.
 
 
-#DATA SOURCE
+# DATA SOURCE
 
 The dataset is derived from global energy and economic statistics, potentially combining sources such as:
 
@@ -44,7 +44,7 @@ The dataset is derived from global energy and economic statistics, potentially c
 ! We have given the proper data source file in our repo and further we downloaded the data set from kaggle      
 
 
-#EXECUTION STEPS 
+# EXECUTION STEPS 
 
 1)  Install Required Libraries:
     Make sure to install the necessary libraries using pip:
@@ -60,12 +60,12 @@ The dataset is derived from global energy and economic statistics, potentially c
     follow the prompts to select countries for comparison
     View the generated graphs to analyze CO₂ emission trends.
 
-#SUMMARY OF RESULTS
+# SUMMARY OF RESULTS
 
 The dashboard successfully visualized CO₂ emissions for multiple countries over selected time periods
 Users could make meaningful comparisons between countries, fostering a better understanding of global emission patterns.
 
-#CHALLENGES FACED
+# CHALLENGES FACED
 
 1) Data Cleaning:
  datasets contained missing or inconsistent values, requiring preprocessing to make the data usable.

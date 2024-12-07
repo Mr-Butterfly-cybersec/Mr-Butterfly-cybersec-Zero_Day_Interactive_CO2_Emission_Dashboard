@@ -6,7 +6,7 @@
   
   2)Rishu Pandey   [ku2407u436]
   
-  3)Gauri adelkar  [ku2407u401]
+  3)Gauri Adelkar  [ku2407u401]
   
   4)Rahul Banyala  [ku2407u434]
 

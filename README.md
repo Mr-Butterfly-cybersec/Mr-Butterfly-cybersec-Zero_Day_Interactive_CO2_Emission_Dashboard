@@ -71,10 +71,10 @@ Users could make meaningful comparisons between countries, fostering a better un
    datasets contained missing or inconsistent values, requiring preprocessing to make the data usable.
 
 2) Visualization Complexity:
-   Balancing simplicity and readability in graphs was a challenge, especially when comparing multiple countries.
+   Balancing simplicity and readability in graphs was a challenge, especially when comparing countries.
 
 3) Interactivity:
-   Adding interactive elements, such as country selection or time-range filters, required additional logic and testing.
+   Adding interactive elements, such as country selection required additional logic and testing.
 
 4) Technical Limitations:
    As a student project, the dashboard is limited in functionality compared to professional-grade tools, but it serves its purpose as a learning exercise.
